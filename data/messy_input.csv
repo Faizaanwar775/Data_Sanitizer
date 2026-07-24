@@ -1,0 +1,26 @@
+full_name,email,phone,signup_date
+John Smith,John.Smith@Example.com,415-555-1234,2024-01-15
+john smith,john.smith@example.com,(415) 555-1234,2024-02-20
+Jane   Doe,jane.doe@example.com,415.555.6789,01/15/2024
+Mary-Jane O'Brien,mary.obrien@example.com,+1 415 555 4321,March 3 2024
+MARY-JANE O'BRIEN, mary.obrien@example.com ,4155554321,03/03/2024
+Robert  Johnson,robert.johnson@example.com,555-1234,2024-03-10
+Alice Walker,alice.walker@example.com,(212) 555-9876,15-Mar-2024
+Bob Miller,bob.miller,212-555-0001,2024/04/01
+Carla Ruiz,carla.ruiz@example.com,212-555-0002,03/04/25
+David-Lee Chen,david.chen@example.com,1-646-555-0003,2024-05-05
+Eva Green,eva.green@EXAMPLE.COM,646.555.0004,"May 6, 2024"
+	Frank Ocean,frank.ocean@example.com,(646) 555-0005,2024-06-07
+Grace Kim,grace.kim@example.com,646-555-00-06,2024-07-08
+Henry Ford,henry.ford@example.com,,2024-08-09
+Isla Fisher,,718-555-0007,2024-09-10
+Jack O'Neil,jack.oneil@example.com,718-555-0008,2024-13-45
+Karen White,karen.white@example.com,718.555.0009,2024-10-11
+Liam Brown,liam.brown@example.com,7185550010,2024-11-12
+Mona Lisa,mona.lisa@example.com,718-555-0011,20/11/2024
+Nate Silver,nate.silver@example.com,646-555-0012,25/12/2024
+Olivia Pope,olivia.pope@example.com,(212)5550013,2024-12-25
+Peter   Parker,peter.parker@example.com,212-555-0014,"Dec 26, 2024"
+QUINN taylor,quinn.taylor@example.com,212-555-0015,2025-01-02
+Rita Ora,rita.ora@example.com,555,2025-01-05
+Sam Wilson,sam.wilson@example,646-555-0016,2025-01-10
